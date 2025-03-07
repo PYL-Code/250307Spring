@@ -9,7 +9,7 @@ import chap03.spring.MemberListPrinter;
 import chap03.spring.MemberPrinter;
 import chap03.spring.MemberRegisterService;
 
-//import 안되면 pom.xml에서 spring 설정을 넣어야 된다.
+//@~~ import 안되면 pom.xml에서 spring 설정을 넣어야 된다.
 
 @Configuration //컨테이너
 public class AppCtx {
